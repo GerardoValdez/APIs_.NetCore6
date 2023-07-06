@@ -1,0 +1,157 @@
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\appsettings.json
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.exe
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.deps.json
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.runtimeconfig.json
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.pdb
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.AssemblyInfoInputs.cache
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.AssemblyInfo.cs
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\scopedcss\bundle\ApiDbFirst.styles.css
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.csproj.CopyComplete
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\refint\ApiDbFirst.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.pdb
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.genruntimeconfig.cache
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ref\ApiDbFirst.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Valdez\OneDrive\Escritorio\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\appsettings.Development.json
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\appsettings.json
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.exe
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.deps.json
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.runtimeconfig.json
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.pdb
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Humanizer.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Npgsql.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\System.CodeDom.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\System.Text.Json.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.csproj.AssemblyReference.cache
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.AssemblyInfoInputs.cache
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.AssemblyInfo.cs
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.MvcApplicationPartsAssemblyInfo.cs
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.MvcApplicationPartsAssemblyInfo.cache
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets\msbuild.ApiDbFirst.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiDbFirst.props
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiDbFirst.props
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiDbFirst.props
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets.build.json
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets.development.json
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\scopedcss\bundle\ApiDbFirst.styles.css
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.csproj.CopyComplete
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\refint\ApiDbFirst.dll
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.pdb
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.genruntimeconfig.cache
+G:\Otros ordenadores\PC Home\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ref\ApiDbFirst.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\appsettings.json
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.exe
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.deps.json
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.runtimeconfig.json
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\ApiDbFirst.pdb
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.AssemblyInfoInputs.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.AssemblyInfo.cs
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets\msbuild.ApiDbFirst.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiDbFirst.props
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiDbFirst.props
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiDbFirst.props
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\scopedcss\bundle\ApiDbFirst.styles.css
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.csproj.CopyComplete
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\refint\ApiDbFirst.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.pdb
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ApiDbFirst.genruntimeconfig.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Programación\TUP\3er Semestre\Prog III\2do Parcial\Und 3\API DbFirst\ApiDbFirst\ApiDbFirst\obj\Debug\net6.0\ref\ApiDbFirst.dll

@@ -1,0 +1,44 @@
+Comandos Dotnet DATA BASE FIRST: 
+
+ Cadena de conexion:
+"Server=localhots;Database=DbFirst;Port=5432;User Id=geraValdez;Password=123456;"
+-------------------------------------------------------
+
+En la terminal:
+- dotnet ef dbcontext scaffold "Server=localhost;Database=DbFirst;Port=5432;User Id=geraVal
+dez;Password=123456;" Npgsql.EntityFrameworkCore.PostgreSQL --output-dir Models
+--------------------------------------------------
+
+En AppSettings antes de los logins:
+
+ "ConnectionStrings": {
+    "ConnectionDatabase": "Server=localhots;Database=DbFirst;Port=5432;User Id=geraValdez;Password=123456;"
+  },
+-----------------------------------------
+
+Las siguientes lineas van en el Program:
+
+//inyectamos el context:
+builder.Services.AddDbContext<DbFirstContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("ConnectionDatabase")));
+
+
+var app = builder.Build();
+
+//por tema de fechas en la base de datos:
+
+AppContext.SetSwitch("Npgsql.EnableLegacyTimesTampBehavior",true);
+
+---------------------------------------------------------------------------
+Se le llama comandos a lo que reciben mis metodos controllers
+
+--------------------------------------------------------------------------
+Hago el HTML
+- le pongo la dependencia de jquery arriba del bootstrap
+- escribo el script con los metodos del boton
+- voy a mi program y agrego (Cors) despues del context para que lleguen las peticiones
+	builder.Services.AddCors();
+
+- Despues de habilitar el swagger en el program agregamos
+
+
+
